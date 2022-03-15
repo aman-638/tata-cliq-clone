@@ -27,7 +27,7 @@ This is a collaborative project. We have worked on this project and submitted it
 
 :star:***Team_Members:***:star: 
   >1. Aman Raj
-   >    - e-Mail: ar7009297@gmail.com
+   >    - linkedin: https://www.linkedin.com/in/aman-raj-59b8971a7/
    >    - GitHub: https://github.com/aman-638 
   >2. Abhishek Maurya
    >    - linkedin :https://www.linkedin.com/in/abhishek-maurya-a210631ba/
