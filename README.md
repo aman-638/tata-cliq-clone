@@ -25,6 +25,15 @@
 
 This is a collaborative project. We have worked on this project and submitted it for our UNIT-2 Evaluation in Masai School.
 
+Landing Page
+<img src="https://miro.medium.com/max/875/0*QeOyNH3i22-MNABc.png" alt="">
+
+Cart Page
+<img src="https://miro.medium.com/max/875/0*sJNgXpuibdK8r75A.png" alt="">
+
+Checkout Page
+<img src="https://miro.medium.com/max/875/0*ex84Kv59bWjZ4OZg.png" alt="">
+
 :star:***Team_Members:***:star: 
   >1. Aman Raj
    >    - linkedin: https://www.linkedin.com/in/aman-raj-59b8971a7/
