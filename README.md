@@ -28,6 +28,9 @@ This is a collaborative project. We have worked on this project and submitted it
      Landing Page
 <img src="https://miro.medium.com/max/875/0*QeOyNH3i22-MNABc.png" alt="">
 
+     Product Page
+<img src="https://miro.medium.com/max/875/0*885ch55s0wQgjRAh.png" alt="">
+
      Cart Page
 <img src="https://miro.medium.com/max/875/0*sJNgXpuibdK8r75A.png" alt="">
 
